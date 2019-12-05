@@ -8,6 +8,7 @@ Common ground for the Ledger Live apps
 yarn add @ledgerhq/live-common
 ```
 
+
 ## Development
 
 ```
